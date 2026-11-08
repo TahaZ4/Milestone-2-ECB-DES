@@ -1,5 +1,5 @@
 # Milestone-2-ECB-DES
-# Symetric Encryption Tunel (DES-ECB)
+# Symmetric Encryption Tunel (DES-ECB)
 
 A secure comunication tunnel built for Legacy Bank, facilitating encrypted data exchnage between a mainframe server and a mobile client using Data Encription Standard (DES) in Electronic Codebook (ECB) mode.
 
